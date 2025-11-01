@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/sendAlert.js",
+      "src": "api/alert.js",
       "use": "@vercel/node"
     }
   ]
