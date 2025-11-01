@@ -1,9 +1,4 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "api/sendAlert.js",
-      "use": "@vercel/node"
-    }
-  ]
+  "builds": [{ "src": "api/sendAlert.js", "use": "@vercel/node" }]
 }
